@@ -1,7 +1,7 @@
 to-be
 ---
 \
-Introducing to-be, the compantion to help you be who you'd like to become and achive those goals.
+Introducing to-be, the companion to help you be who you'd like to become and achive those goals.
 
 Currently on public release trial, please report any issue/question by using following link:
 
