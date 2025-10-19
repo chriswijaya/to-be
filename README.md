@@ -10,6 +10,11 @@ https://github.com/chriswijaya/to-be/issues
 \
 Your feedback would mean a lot to me as an indie developer to motivate me maintaining and improving the app and I prefer if you can do it through the app store.  
 
-\
-\
-**Chris**
+
+## EULA
+Copyright © Chris WIjaya
+
+This app is provided as is without warranty/compensation.
+
+## Privacy Policy
+No data is collected by the developer of this application, all data the user shared/generated using to-be app is stored locally on the user's device.
